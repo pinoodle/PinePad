@@ -2,7 +2,7 @@
     "name": "PinePad",
     "short_name": "PinePad",
     "description": "A simple notepad PWA",
-    "start_url": "https://media.textadventures.co.uk/games/Z0VKNWn5V0Cjcw3w_VU__w/",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#2c2c2c",
     "theme_color": "#2c2c2c",

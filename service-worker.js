@@ -1,10 +1,10 @@
-const CACHE_NAME = 'pinepad-v2';
+const CACHE_NAME = 'pinepad-v3';
 const urlsToCache = [
-    '/games/Z0VKNWn5V0Cjcw3w_VU__w/',
-    '/games/Z0VKNWn5V0Cjcw3w_VU__w/index.html',
-    '/games/Z0VKNWn5V0Cjcw3w_VU__w/icon-192.png',
-    '/games/Z0VKNWn5V0Cjcw3w_VU__w/icon-512.png',
-    '/games/Z0VKNWn5V0Cjcw3w_VU__w/manifest.json'
+    '/',
+    '/index.html',
+    '/icon-192.png',
+    '/icon-512.png',
+    '/manifest.json'
 ];
 
 // Install event - cache our files
