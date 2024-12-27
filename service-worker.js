@@ -1,10 +1,10 @@
-const CACHE_NAME = 'pinepad-v3';
+const CACHE_NAME = 'pinepad-v4';
 const urlsToCache = [
-    '/',
-    '/index.html',
-    '/icon-192.png',
-    '/icon-512.png',
-    '/manifest.json'
+    '/PinePad/',
+    '/PinePad/index.html',
+    '/PinePad/icon-192.png',
+    '/PinePad/icon-512.png',
+    '/PinePad/manifest.json'
 ];
 
 // Install event - cache our files
